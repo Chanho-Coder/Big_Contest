@@ -1,5 +1,7 @@
 # Big_Contest
-## Deduct optimal NS SHOP+ broadcasting schedul through forecasting sales performance
+
+### 0. Goal
+![0  Goal](https://user-images.githubusercontent.com/80534659/112271965-ea72d080-8cbe-11eb-9bce-e49621e47f8d.PNG)
 
 ### 1. Process
 ![1  Process](https://user-images.githubusercontent.com/80534659/112271712-9b2ca000-8cbe-11eb-9461-5a9025ef3dcb.PNG)
