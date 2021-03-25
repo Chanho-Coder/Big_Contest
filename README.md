@@ -14,3 +14,7 @@
 
 ### 4. Result
 ![4  Result](https://user-images.githubusercontent.com/80534659/112271798-b8fa0500-8cbe-11eb-89ea-acef507e5869.PNG)
+
+### If you can't see the code
+- get on https://nbviewer.jupyter.org/
+- search 'Chanho-Coder'
